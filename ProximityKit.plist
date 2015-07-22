@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>PKKitName</key>
+	<string>My Kit</string>
+	<key>PKUserIdentifier</key>
+	<string>5802</string>
+	<key>PKUserEmail</key>
+	<string>akozlik@gmail.com</string>
+	<key>PKGlobalUserIdentifier</key>
+	<string>8112</string>
+	<key>PKAPIToken</key>
+	<string>57d5c79ffa26a7e6d094046e9bf29ab274952fb685233a6fc5b261dd1aa3d657</string>
+	<key>PKKitURL</key>
+	<string>http://proximitykit.radiusnetworks.com/api/kits/5463</string>
+</dict>
+</plist>
